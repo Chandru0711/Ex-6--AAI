@@ -1,4 +1,7 @@
-
+<H3>NAME: CHANDRU SM </H3>
+<H3>REGISTER NO:212223230034</H3>
+<H3>EX. NO.6</H3>
+<H3>DATE: 25/04/2025</H3>
 <H1 ALIGN =CENTER>Implementation of Semantic Analysis</H1>
 
  ### Aim: 
